@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/harshit56166906" target="blank"><img src="https://img.shields.io/twitter/follow/harshit56166906?logo=twitter&style=for-the-badge" alt="harshit56166906" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development, Data structure and algorithms.**
+- 🌱 I’m a **Software Developer**
 
-- 💬 Ask me about **React JS,ES6,NodeJS,MongoDB,Git,C++**
+- 💬 Ask me about **C, C++, Python, Javascript, Solidity, ReactJS, NodeJS, ExpressJS, MySQL, MongoDB**
 
 - 📫 How to reach me **hg25112002@gmail.com**
 
